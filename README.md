@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Erick Lima
 
-<!--
-**Erick-Limaa/Erick-Limaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação com paixão por criar soluções criativas e funcionais. Tenho experiência em projetos individuais e busco oportunidades para aplicar e expandir minhas habilidades em ambientes colaborativos.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** JavaScript, HTML, CSS, PHP, Python
+- **Bibliotecas e Frameworks:** React, Bootstrap
+- **Outras Competências:** Desenvolvimento Web, Front-End, Back-End, e Banco de Dados
+
+## 🌱 Atualmente
+
+- 📚 Estudando Análise e Desenvolvimento de Sistemas
+- 💻 Freelancer na área de desenvolvimento web
+- 🎯 Buscando minha primeira oportunidade de emprego para crescer profissionalmente
+
+## 📫 Vamos nos conectar!
+
+- [Instagram](https://www.instagram.com/erick.devs?igsh=MXd2bmxweG53YzRsNg==) 📸
+- [LinkedIn](https://www.linkedin.com/in/erick-borges-farias-lima-b354762ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🔗
+
+## ⚡ Curiosidades
+
+- 🛠️ Adoro aprender novas tecnologias e melhorar minhas habilidades
+- 📈 Acredito na melhoria contínua e na força do trabalho em equipe
+
+Obrigado por visitar meu perfil! 😊
