@@ -1,6 +1,7 @@
 # 👋 Olá! Me chamo Erick Lima / Hello! My name is Erick Lima
 
-Sou um desenvolvedor em formação com paixão por criar soluções criativas e funcionais. Tenho experiência em projetos individuais e busco oportunidades para aplicar e expandir minhas habilidades em ambientes colaborativos.
+Sou um desenvolvedor em formação com paixão por criar soluções criativas e funcionais. Tenho experiência em projetos individuais e busco oportunidades para aplicar e expandir minhas habilidades em ambientes colaborativos. 
+//
 I am a developer in training with a passion for creating creative and functional solutions. I have experience in individual projects and seek opportunities to apply and expand my skills in collaborative environments.
 
 ## 🚀 Minhas Habilidades / My Skills
