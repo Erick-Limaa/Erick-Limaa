@@ -18,9 +18,9 @@ I am a developer in training with a passion for creating creative and functional
 
 ## 🌱 Atualmente / Currently
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas / Studying Systems Analysis and Development
-- 💻 Freelancer na área de desenvolvimento web / Freelancer in web development
-- 🎯 Buscando minha primeira oportunidade de emprego para crescer profissionalmente / Looking for my first job opportunity to grow professionally
+- 📚 Cursando Análise e Desenvolvimento de Sistemas. / Studying Systems Analysis and Development.
+- 💻 Freelancer na área de desenvolvimento web. / Freelancer in web development.
+- 🎯 Buscando minha primeira oportunidade de emprego para crescer profissionalmente. / Looking for my first job opportunity to grow professionally.
 
 ## 🌐 Minhas Redes Sociais! / My Social Media!
 
@@ -29,8 +29,8 @@ I am a developer in training with a passion for creating creative and functional
 
 ## ⚡ Curiosidades / Fun Facts
 
-- 🛠️ Adoro aprender novas tecnologias e melhorar minhas habilidades / I love learning new technologies and improving my skills
+- 🛠️ Adoro aprender novas tecnologias e melhorar minhas habilidades. / I love learning new technologies and improving my skills.
 
-- 📈 Acredito na melhoria contínua e na força do trabalho em equipe /  believe in continuous improvement and the power of teamwork
+- 📈 Acredito na melhoria contínua e na força do trabalho em equipe. /  believe in continuous improvement and the power of teamwork.
 
 Obrigado por visitar meu perfil! / Thank you for visiting my profile!  😊
