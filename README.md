@@ -28,7 +28,7 @@ I am a developer in training with a passion for creating creative and functional
 ## 🌐 Minhas Redes Sociais! / My Social Media!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick.devs?igsh=MXd2bmxweG53YzRsNg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erickbfl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickbfl/)
 
 ## ⚡ Curiosidades / Fun Facts
 
